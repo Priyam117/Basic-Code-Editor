@@ -1,3 +1,5 @@
+// Targeting all the elements
+
 const copyButton = document.getElementById("copy-button");
 const saveButton = document.getElementById("save-button");
 const lockButton = document.getElementById("lock-button");
@@ -5,6 +7,8 @@ const displayButton = document.getElementById("display-button");
 const displayDiv = document.getElementById("dataToDisplay");
 const clearButton = document.getElementById("clear-button");
 const codeArea = document.getElementById("code-area");
+
+// Adding the fumctionlity to all elements
 
 copyButton.addEventListener("click", () => {
     const textValue = codeArea.value;
