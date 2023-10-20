@@ -27,7 +27,7 @@ Images are inside the Result Folder.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/code-editor.git
+   git clone https://priyam117.github.io/Basic-Code-Editor/
 
   Open the index.html file in your web browser to use the code editor.
 
