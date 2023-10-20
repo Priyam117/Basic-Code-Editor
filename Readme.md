@@ -16,7 +16,7 @@ This is a simple web-based code editor application built using HTML, CSS, and Ja
 
 ## Live Demo
 
-You can see a live demo of this project [here](https://your-demo-url.com).
+You can see a live demo of this project `https://priyam117.github.io/Basic-Code-Editor/`.
 
 ## Screenshots
 
